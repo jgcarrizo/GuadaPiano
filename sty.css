@@ -1,4 +1,8 @@
 @charset "UTF-8";
+p{
+  font-size: 24px;
+  color: rgb(28, 9, 73);
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #444;
