@@ -1,4 +1,6 @@
 
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444;
@@ -472,11 +474,13 @@ section {
 }
 
 .section-title h2 {
-  font-size: 32px;
+  
+  font-family:'Patrick Hand', cursive;
+  font-size: 45px;
   font-weight: 600;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #5c768d;
+  color: #03111d;
 }
 
 .section-title p {
@@ -1345,3 +1349,14 @@ section {
   margin: 0;
 }
 
+.parrafo {
+  font-size: 22px;
+  font-family: 'Indie Flower', cursive;
+  color: rgb(35, 22, 92);
+}
+.parrafos{
+  font-size: 20px;
+  font-family: 'Indie Flower', cursive;
+
+
+}
